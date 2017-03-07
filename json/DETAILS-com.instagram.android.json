@@ -1,0 +1,59 @@
+{
+    "title": "Instagram",
+    "summary": "Instagram – Like, capture and share the world’s moments",
+    "icon": "//lh3.googleusercontent.com/aYbdIM1abwyVSUZLDKoE0CDZGRhlkpsaPOg9tNnBktUQYsXflwknnOn2Ge1Yr7rImGk=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000000000,
+    "maxInstalls": 5000000000,
+    "score": 4.5,
+    "reviews": 45881326,
+    "developer": "Instagram",
+    "developerEmail": "android-support@instagram.com",
+    "developerWebsite": "http://help.instagram.com/",
+    "updated": "March 6, 2017",
+    "version": "Varies with device",
+    "genre": "Social",
+    "genreId": "SOCIAL",
+    "size": "Varies with device",
+    "description": "Instagram is a simple way to capture and share the world’s moments. Follow your friends and family to see what they’re up to, and discover accounts from all over the world that are sharing things you love. Join the community of over 500 million people and express yourself by sharing all the moments of your day––the highlights and everything in between, too.Use Instagram to:•\tPost photos and videos you want to keep on your profile grid. Edit them with filters and creative tools and combine multiple clips into one video.•\tShare multiple photos and videos (as many as you want!) to your story. Bring them to life with text and drawing tools. They disappear after 24 hours and won't appear on your profile grid or in feed. •\tGo live to connect with your friends and followers right now. When you're done, live stories disappear.•\tSend disappearing photos and videos, text messages and posts from your feed to groups and friends with Instagram Direct.•\tWatch stories and live videos from the people you follow in a bar at the top of your feed.•\tDiscover stories, photos and videos you might like and follow new accounts on the Explore tab.",
+    "descriptionHTML": "Instagram is a simple way to capture and share the world&#x2019;s moments. Follow your friends and family to see what they&#x2019;re up to, and discover accounts from all over the world that are sharing things you love. Join the community of over 500 million people and express yourself by sharing all the moments of your day&#x2013;&#x2013;the highlights and everything in between, too.<br><br>Use Instagram to:<br>&#x2022;\tPost photos and videos you want to keep on your profile grid. Edit them with filters and creative tools and combine multiple clips into one video.<br>&#x2022;\tShare multiple photos and videos (as many as you want!) to your story. Bring them to life with text and drawing tools. They disappear after 24 hours and won&apos;t appear on your profile grid or in feed. <br>&#x2022;\tGo live to connect with your friends and followers right now. When you&apos;re done, live stories disappear.<br>&#x2022;\tSend disappearing photos and videos, text messages and posts from your feed to groups and friends with Instagram Direct.<br>&#x2022;\tWatch stories and live videos from the people you follow in a bar at the top of your feed.<br>&#x2022;\tDiscover stories, photos and videos you might like and follow new accounts on the Explore tab.",
+    "histogram": {
+        "1": 1797303,
+        "2": 917359,
+        "3": 2609242,
+        "4": 7877206,
+        "5": 32680216
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Teen",
+    "screenshots": [
+        "//lh3.googleusercontent.com/K4x1RjVE_PIPI7IV2PJj9bnYOmQeJGZvMP80czUw0clMGhVrYavHvaIr2Tf3MUf0L90=h310",
+        "//lh3.googleusercontent.com/Wv-aIJZB-qjqxYw2_sJX-6uoGSJRJFq_KcLto-TpDSbByxy0Rry1fvzchnjKlOZfxe84=h310",
+        "//lh3.googleusercontent.com/iJJq1HmrvqRomfa0gPlQjgnzUhyjcUZU9uQV6uzI2TQ5N8na8vswuI73f4tPDKm_Am4V=h310",
+        "//lh3.googleusercontent.com/MIO6WKggeoYeQso7jUdF-OgXx4_lc49s4Vc6ktNiUIBwXYVwoa-gkNO2XbkHPornwWA=h310",
+        "//lh3.googleusercontent.com/RfsBrhjkNVhg52QNm3rQrOk_6u4xvTe4QPoEQFMRofa0_hN2qWVqGmySMl-_TxC5sQ=h310"
+    ],
+    "comments": [
+        "I have a Google Pixel and this app has been causing me so many problems. I cannot upload the 10 photos at once because for some reason u do bit have the features. I also have problem tagging people. Sometimes I could just simply @ them but then other times when I @ people on a story or a post, it doesn't come out. Please fix. It is very frustrating. I am not getting the features and having glitches all the time.",
+        "I had to uninstall the app due to a glitch. Before I uninstalled,  I could upload swipe photos, but now I can't. I can only see them. Also, the option to go live or to even see live shows would be a great addition for a lot of the people who don't already have it.",
+        "Ever since the latest update, it is nearly impossible to upload videos without it stopping halfway through and failing to upload. Can you please fix this? I'll give the app 3 stars since I like the app, I'll change it back to 5 if this issue is fixed.",
+        "very slowly uploading videos ?! please check (App Telegram) you send (All Files All videos size and Time All photos)  very late updates?                                         Please use.... The encrypted  combination  3072bit or 4096bit  RSA   and     384bit or 512bit SHA for maximum security. All messages are deleted from the server after delivery.  Thanks fixed and update  Tanks for All",
+        "Didn't know Mark Zuckerberg would be racist towards windows fans. 5 star for the app. But I'd give it a zero for its versatility on other platforms.",
+        "It's all awesome but I can't upload 10 photos (EVEN THOUGH I AM ON 10.11.0). I am using a Moto G3 running Android 6.0.1 in the UK. The Play Store description says that you can upload multiple photos in the What's New section, but I can't. Any explanation?"
+    ],
+    "recentChanges": [
+        "New: You can share up to 10 photos and videos in one post on Instagram.",
+        "* When uploading to your feed, you’ll see a new icon to select multiple photos and videos.",
+        "* Tap and hold to change the order.",
+        "* Apply a filter to everything at once or edit one by one.",
+        "* In feed, swipe through to see them all.",
+        "This feature will be rolling out globally over the next few weeks."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.instagram.android&hl=en&gl=us",
+    "appId": "com.instagram.android"
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Snapchat",
+    "summary": "Life&#39;s more fun when you live in the moment :)",
+    "icon": "//lh4.ggpht.com/vdK_CsMSsJoYvJpYgaj91fiJ1T8rnSHHbXL0Em378kQaaf_BGyvUek2aU9z2qbxJCAFV=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 500000000,
+    "maxInstalls": 1000000000,
+    "score": 4,
+    "reviews": 11147319,
+    "developer": "Snap Inc",
+    "developerEmail": "snapchat@snap.com",
+    "developerWebsite": "http://www.snap.com",
+    "updated": "March 6, 2017",
+    "version": "10.3.1.0",
+    "genre": "Social",
+    "genreId": "SOCIAL",
+    "description": "Life's more fun when you live in the moment :) Happy Snapping!* * *Please note: Snapchatters can always capture or save your messages, such as by taking a screenshot or using a camera. Be mindful of what you Snap!",
+    "descriptionHTML": "Life&apos;s more fun when you live in the moment :) Happy Snapping!<br><br>* * *<br><br>Please note: Snapchatters can always capture or save your messages, such as by taking a screenshot or using a camera. Be mindful of what you Snap!",
+    "histogram": {
+        "1": 1425683,
+        "2": 569558,
+        "3": 1048482,
+        "4": 1537142,
+        "5": 6566454
+    },
+    "offersIAP": true,
+    "adSupported": true,
+    "androidVersionText": "4.1 and up",
+    "androidVersion": "4.1",
+    "contentRating": "Teen",
+    "screenshots": [
+        "//lh3.googleusercontent.com/tzA9YcWZOzy_vL7EABiBlyogFDvNwgO03irc9qCFheRhVWMaO_utsoKw9iBOecZMeiRM=h310",
+        "//lh3.googleusercontent.com/5uuSLVf9lkrani36Aw0LJEdGjpt2p7QDs9gUM5S0lc0-s-upwHTI1yGtPbuaBhmmlG8=h310",
+        "//lh3.googleusercontent.com/f5_FYQuYK2E-e6Tj2CrJbs3AUf4WgTwfMk9SiJ80GaLP51TsYLnOwgpFJFQCG2ail9Q=h310",
+        "//lh3.googleusercontent.com/IQdP6GjUgPRPUGBTxne6MxEBaXZppIU9YwolbuRngQpmf8lMM4gx0gjBQJBQ2oghKQE=h310",
+        "//lh3.googleusercontent.com/pTqeKJG3bdnVIoeBurTIaRJzMZrsTDfZPJcXnZWZCs9pkIPlMRrnGfhkgYmsjupBejXl=h310"
+    ],
+    "comments": [
+        "Two big issues I have with Snap chat. First, it will heat the device up, drain your batteries down to nothing and is slow even if you have 8 cores on your device. Second, why do you need to verify my device? As long I In login with my password and user name, you shouldn't be snooping. Last,  it tracks your phone location very aggressively; even with your phone is closed.",
+        "Kinda sucks for android users cos it makes the phone hot, laggy, screen froze, and crashes a lot. At times the filter function doesn't even work properly. It seems to be going great on iPhones tho. Sadly not so much for Androids. And when it's laggy, it's really bad.",
+        "The app crashes on me about 5 to 6 times a day out of the blue and it's getting really annoying, could be my phone itself but not sure. I would give it 5 if it wouldn't crash all the time.",
+        "The most recent update fixed the issues with the app crashing; however, there is still severe lag and overheating issues while using the app. At least the app is now somewhat usable again. Still waiting for the remaining bugs to be patched.",
+        "Bad quality videos. But good with pictures. What deal snapchat? Those videos really are bad i must say. Didnt have this problem before but i forgot which update got me into this. Pls fix it...im begging you!",
+        "It's so laggy and almost unusable...  I have had this app for a while enjoyed it and then recently every time I open the app it takes a long time and when I tap on snaps from people it takes about 30 seconds to load and sometimes it thinks that I have already seen it when it had only been loading.... I have an Alcatel idol 4 and no other apps are as laggy as Snapchat..."
+    ],
+    "recentChanges": [
+        "Bug fixes and improvements! 👻"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.snapchat.android&hl=en&gl=us",
+    "appId": "com.snapchat.android"
+}

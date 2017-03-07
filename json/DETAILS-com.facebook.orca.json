@@ -1,0 +1,54 @@
+{
+    "title": "Messenger",
+    "summary": "Messenger — a faster way to message.",
+    "icon": "//lh5.ggpht.com/0VYAvZLR9YhosF-thqm8xl8EWsCfrEY_uk2og2f59K8IOx5TfPsXjFVwxaHVnUbuEjc=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000000000,
+    "maxInstalls": 5000000000,
+    "score": 3.9,
+    "reviews": 40696228,
+    "developer": "Facebook",
+    "developerEmail": "android-support@fb.com",
+    "developerWebsite": "http://www.facebook.com/apps/application.php?id=256002347743983",
+    "updated": "March 2, 2017",
+    "version": "Varies with device",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "size": "Varies with device",
+    "description": "Instantly reach the people in your life—for free. Messenger is just like texting, but you don't have to pay for every message (it works with your data plan).Not just for Facebook friends: Message people in your phone book and just enter a phone number to add a new contact.Group chats: Create groups for the people you message most. Name them, set group photos and keep them all in one place.Photos and videos: Shoot videos and snap selfies or other photos right from the app and send them with one tap.Chat heads: Keep the conversation going while you use other apps. Free calls: Talk as long as you want, even with people in other countries. (Calls are free over Wi-Fi. Otherwise, standard data charges apply.)Even more ways to message: Bring your conversations to life with stickers. Preview your gallery photos and videos without leaving the conversation--then choose the perfect ones to send.Record voice messages when you have more to say.Extra features:Know when people have seen your messages.Forward messages or photos to people who weren't in the conversation.Search for people and groups to quickly get back to them.Turn on location to let people know when you're nearby.See who's available on Messenger and who's active on Facebook. Create shortcuts to get to any conversation right from your home screen.Turn off notifications when you're working, sleeping or just need a break.Stay logged in so you never miss a message.",
+    "descriptionHTML": "Instantly reach the people in your life&#x2014;for free. Messenger is just like texting, but you don&apos;t have to pay for every message (it works with your data plan).<br><br>Not just for Facebook friends: Message people in your phone book and just enter a phone number to add a new contact.<br><br>Group chats: Create groups for the people you message most. Name them, set group photos and keep them all in one place.<br><br>Photos and videos: Shoot videos and snap selfies or other photos right from the app and send them with one tap.<br><br>Chat heads: Keep the conversation going while you use other apps. <br><br>Free calls: Talk as long as you want, even with people in other countries. (Calls are free over Wi-Fi. Otherwise, standard data charges apply.)<br><br>Even more ways to message: <br>Bring your conversations to life with stickers. <br>Preview your gallery photos and videos without leaving the conversation--then choose the perfect ones to send.<br>Record voice messages when you have more to say.<br><br>Extra features:<br>Know when people have seen your messages.<br>Forward messages or photos to people who weren&apos;t in the conversation.<br>Search for people and groups to quickly get back to them.<br>Turn on location to let people know when you&apos;re nearby.<br>See who&apos;s available on Messenger and who&apos;s active on Facebook. <br>Create shortcuts to get to any conversation right from your home screen.<br>Turn off notifications when you&apos;re working, sleeping or just need a break.<br>Stay logged in so you never miss a message.",
+    "histogram": {
+        "1": 5869095,
+        "2": 1886276,
+        "3": 4024864,
+        "4": 6237789,
+        "5": 22678204
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/NAZSjkXAU2bL7luKqUwbpiyPcTn03iXgMQ8w_D7yIV6iCytn0MMhNtvDUlfybV2QHaY=h310",
+        "//lh3.googleusercontent.com/Qzbq2jlrZqeEosEi0DrW2NzH91g7eTg0eyCAojCvZH57y000Wx-uvoyZoMme8wBhNpBM=h310",
+        "//lh3.googleusercontent.com/j05Jptojk65yw9DwWS8rmBFsVMFn38adWbLyogyKaRiFOXxS2sgvM6hEOoDQT2ykCA=h310",
+        "//lh3.googleusercontent.com/ya0f3nCEyVHz7wBJ-uPtgHLvzCwfgvSordNKwRPfwYXzDdIHQ4Jm-HIEGyHmfv1oTkU=h310",
+        "//lh3.googleusercontent.com/GHh3ulO3lfZW1Xek1JiRH8uvL3mN372QXOsJbG_AdAk5ND7n9O1pw63ajTMnqU73ImfB=h310"
+    ],
+    "comments": [
+        "Not working correctly with Android auto",
+        "Add search conversation or search  message option.",
+        "Love",
+        "It is a good app",
+        "Nice",
+        "After I am done calling, the phone keeps believing that i am still on the call and i cannot open my camera as it says, \"Camera cannot be opened during calls.\" Also, I keep having low ringtone and notification volume for the same reason. When i try to increase the ringtone volume, my phone only gives me the option to increase the call volume. I have to restart my phone every time to fix this issue; either the camera does not open or the ringtone volume goes down. Other than that, the application works fine with me."
+    ],
+    "recentChanges": [
+        "Now you can see your call history and missed calls—all in one place."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.facebook.orca&hl=en&gl=us",
+    "appId": "com.facebook.orca"
+}

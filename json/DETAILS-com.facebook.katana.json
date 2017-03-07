@@ -1,0 +1,54 @@
+{
+    "title": "Facebook",
+    "summary": "Keeping up with friends is faster than ever.",
+    "icon": "//lh3.googleusercontent.com/ZZPdzvlpK9r_Df9C3M7j1rNRi7hhHRvPhlklJ3lfi5jk86Jd1s0Y5wcQ1QgbVaAP5Q=w300",
+    "price": "0",
+    "free": true,
+    "minInstalls": 1000000000,
+    "maxInstalls": 5000000000,
+    "score": 4,
+    "reviews": 62539717,
+    "developer": "Facebook",
+    "developerEmail": "android-support@fb.com",
+    "developerWebsite": "https://www.facebook.com/facebook",
+    "updated": "March 6, 2017",
+    "version": "Varies with device",
+    "genre": "Social",
+    "genreId": "SOCIAL",
+    "size": "Varies with device",
+    "description": "Keeping up with friends is faster than ever.• See what friends are up to• Share updates, photos and videos• Get notified when friends like and comment on your posts• Play games and use your favorite appsNow you can get early access to the next version of Facebook for Android by becoming a beta tester. Learn how to sign up, give feedback and leave the program in our Help Center: http://on.fb.me/133NwuP Sign up directly here: http://play.google.com/apps/testing/com.facebook.katanaProblems downloading or installing the app? See http://bit.ly/GPDownload1Still need help? Please tell us more about the issue. http://bit.ly/invalidpackageFacebook is only available for users age 13 and over.Terms of Service: http://m.facebook.com/terms.php.",
+    "descriptionHTML": "Keeping up with friends is faster than ever.<br><br>&#x2022; See what friends are up to<br>&#x2022; Share updates, photos and videos<br>&#x2022; Get notified when friends like and comment on your posts<br>&#x2022; Play games and use your favorite apps<br><br>Now you can get early access to the next version of Facebook for Android by becoming a beta tester. Learn how to sign up, give feedback and leave the program in our Help Center: http://on.fb.me/133NwuP <br>Sign up directly here: <br>http://play.google.com/apps/testing/com.facebook.katana<br><br>Problems downloading or installing the app? See http://bit.ly/GPDownload1<br>Still need help? Please tell us more about the issue. http://bit.ly/invalidpackage<br><br>Facebook is only available for users age 13 and over.<br>Terms of Service: http://m.facebook.com/terms.php.",
+    "histogram": {
+        "1": 7819192,
+        "2": 2845425,
+        "3": 5753995,
+        "4": 9898690,
+        "5": 36222415
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Teen",
+    "screenshots": [
+        "//lh3.googleusercontent.com/PjyPQUZa9nVu654U0cGHO3GQcG-iPve2BBcLlBFlbZcnR92ecNyHGloOm0RG_sIoM78=h310",
+        "//lh3.googleusercontent.com/u-807OxhkNacnpV_sy7mXNYFtn_A0blN8eJHJs4OFvUQbIf-wuHVzUdfXw2xkGlQeA=h310",
+        "//lh3.googleusercontent.com/ZNTJupJ7mv--m-kgTKnpjdsvtQbPbgGYiOLugcG9NjbI97wgZuDrbvp9Q0eHtZb7hQ=h310",
+        "//lh3.googleusercontent.com/APzGFRGHflhxBO10lSbcSQ3eHCy_jHfdvgaJZbUse59ifkXmXNX3DCmtnRJe4dwYqX4=h310",
+        "//lh3.googleusercontent.com/ME_hkQQxUzR2TquPROQIZ5niw56ygubtvANtIX1StxR1EIj9H8hvxTIveiQugNM8q-w=h310"
+    ],
+    "comments": [
+        "Somehow you made things worse with the top friends. I suggest you start listening to feedback... slowing down my phone too. I'll never understand how people can mess up something if it didn't even need fixing to begin with. You guys messed up even more stuff... Can't edit my profile stuff either. Edit button refuses to work too. I'd give zero stars if I could. You're not fixing anything, you're just making things worse. Edit: Edit button is still broken and top friends is still messed up. You people even listen to feedback? No of course not. You got it all down. No problems at all with Facebook.",
+        "It always crashes foe my Huawei Y6 II and also the video turns gray when you play it.",
+        "⤵🚽 what with all these improvements for reliability and speed, why isn't this faster than the speed of light and 1000% reliable?",
+        "Consumes lot of data fortnightly due to upgradation not known to users.",
+        "Why connect to messenger... Its not fair",
+        "Hold the sky is limit for our Facebook"
+    ],
+    "recentChanges": [
+        "• Improvements for reliability and speed"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en&gl=us",
+    "appId": "com.facebook.katana"
+}

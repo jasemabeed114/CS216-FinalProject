@@ -1,0 +1,57 @@
+[
+    {
+        "url": "https://play.google.com/store/apps/details?id=com.facebook.orca",
+        "appId": "com.facebook.orca",
+        "title": "Messenger",
+        "summary": "Messenger — a faster way to message.",
+        "developer": "Facebook",
+        "icon": "//lh5.ggpht.com/0VYAvZLR9YhosF-thqm8xl8EWsCfrEY_uk2og2f59K8IOx5TfPsXjFVwxaHVnUbuEjc=w340",
+        "score": 3.9,
+        "price": "0",
+        "free": true
+    },
+    {
+        "url": "https://play.google.com/store/apps/details?id=com.facebook.katana",
+        "appId": "com.facebook.katana",
+        "title": "Facebook",
+        "summary": "Keeping up with friends is faster than ever.",
+        "developer": "Facebook",
+        "icon": "//lh3.googleusercontent.com/ZZPdzvlpK9r_Df9C3M7j1rNRi7hhHRvPhlklJ3lfi5jk86Jd1s0Y5wcQ1QgbVaAP5Q=w340",
+        "score": 4,
+        "price": "0",
+        "free": true
+    },
+    {
+        "url": "https://play.google.com/store/apps/details?id=com.snapchat.android",
+        "appId": "com.snapchat.android",
+        "title": "Snapchat",
+        "summary": "Life's more fun when you live in the moment :)",
+        "developer": "Snap Inc",
+        "icon": "//lh4.ggpht.com/vdK_CsMSsJoYvJpYgaj91fiJ1T8rnSHHbXL0Em378kQaaf_BGyvUek2aU9z2qbxJCAFV=w340",
+        "score": 4,
+        "price": "0",
+        "free": true
+    },
+    {
+        "url": "https://play.google.com/store/apps/details?id=com.instagram.android",
+        "appId": "com.instagram.android",
+        "title": "Instagram",
+        "summary": "Instagram – Like, capture and share the world’s moments",
+        "developer": "Instagram",
+        "icon": "//lh3.googleusercontent.com/aYbdIM1abwyVSUZLDKoE0CDZGRhlkpsaPOg9tNnBktUQYsXflwknnOn2Ge1Yr7rImGk=w340",
+        "score": 4.5,
+        "price": "0",
+        "free": true
+    },
+    {
+        "url": "https://play.google.com/store/apps/details?id=com.pandora.android",
+        "appId": "com.pandora.android",
+        "title": "Pandora® Radio",
+        "summary": "Pandora will change the way you discover and listen to music.",
+        "developer": "Pandora",
+        "icon": "//lh3.googleusercontent.com/9hd18dVL7dNI5lrcm9mGo0q3GGk1NcJ9sFwEpkPajsM5gPz3XEH4HrUUshuvD7-B71E=w340",
+        "score": 4.4,
+        "price": "0",
+        "free": true
+    }
+]
