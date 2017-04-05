@@ -1,0 +1,57 @@
+{
+    "title": "ePSXe for Android",
+    "summary": "Play all your favorite Playstation games in your android device!!",
+    "icon": "https://lh6.ggpht.com/xm13cRUNfN917GRFZql6MrtL9gDYvvoj1kINpZyFNadRAGbDmrK8gB5V-PvuhtvBmA=w300",
+    "price": "$3.75",
+    "free": false,
+    "minInstalls": 500000,
+    "maxInstalls": 1000000,
+    "score": 4.5,
+    "reviews": 29154,
+    "developer": "epsxe software s.l.",
+    "developerEmail": "epsxeandroid@gmail.com",
+    "developerWebsite": "http://epsxe.com/android/",
+    "updated": "October 27, 2016",
+    "version": "2.0.7",
+    "genre": "Arcade",
+    "genreId": "GAME_ARCADE",
+    "description": "ePSXe for Android is a Playstation emulator (PSX and PSOne). It is a port of the famous ePSXe for PC. ePSXe provides very high compatibility (>99%), good speed, and accurate sound. It is designed for smartphones and tablets, (for 1-4 players) including a fun 2 players option with split screen mode. It includes virtual touchscreen pad support, hardware buttons mapping (Xperia Play, phones with keyboard or gamepad, external gamepads bluetooth or USB such as WiiMote, Sixaxis, Xbox 360, Moga, Ipega) and analog sticks. ePSXe supports OpenGL HD enhanced graphics thanks to the Peopsxgl Plugin, cheat codes as well as savestates and memcards compatibility with the PC version. ePSXe includes native support for ARM and Intel Atom X86. More info: http://epsxe.com/android/** IMPORTANT: ePSXe DOESN'T INCLUDE GAMES. GAMES MUST BE PROVIDED BY THE USER **",
+    "descriptionHTML": "ePSXe for Android is a Playstation emulator (PSX and PSOne). It is a port of the famous ePSXe for PC. ePSXe provides very high compatibility (&gt;99%), good speed, and accurate sound. It is designed for smartphones and tablets, (for 1-4 players) including a fun 2 players option with split screen mode. It includes virtual touchscreen pad support, hardware buttons mapping (Xperia Play, phones with keyboard or gamepad, external gamepads bluetooth or USB such as WiiMote, Sixaxis, Xbox 360, Moga, Ipega) and analog sticks. ePSXe supports OpenGL HD enhanced graphics thanks to the Peopsxgl Plugin, cheat codes as well as savestates and memcards compatibility with the PC version. ePSXe includes native support for ARM and Intel Atom X86. More info: http://epsxe.com/android/<br><br>** IMPORTANT: ePSXe DOESN&apos;T INCLUDE GAMES. GAMES MUST BE PROVIDED BY THE USER **",
+    "histogram": {
+        "1": 1937,
+        "2": 634,
+        "3": 1191,
+        "4": 3620,
+        "5": 21772
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.2 and up",
+    "androidVersion": "2.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh6.ggpht.com/Xvbk-q_WjvFeN2rZQgNeBr7zinRrhOIkI8mDK-TkezceHDNYEFTZKYz_tMgifqAeVFs=h310",
+        "//lh3.googleusercontent.com/BxOresEa4XsCSc_LHA6p39pYY6_h1Y4HeGRd6WsXmS58ueonJV8gr-LMKAHndFoaPm0=h310",
+        "//lh3.googleusercontent.com/rQ6Lyuuog_Z4lgcf9ZQwYuQwlnZ1HapfYE3i5OESooUv7SiNj-mXQJqirE6I-a0NoGxP=h310",
+        "//lh3.googleusercontent.com/J_aAV2hJQ2cZsNuKC-0cCbGcbPxBQiC5_mr4RRKbrYwjWy3jrFb-9GwCF6J2hsgoXuU=h310",
+        "//lh3.googleusercontent.com/1OYto1sZMQYWTPKYmNJT4jESJqLIDpxC5CqAYXtvUb61irstDTp_3TQnbJpc5Wh55Ts=h310",
+        "//lh3.googleusercontent.com/TJNlY0LLMoDFA9xOm_IwFVwNOQEQEI0hFhQwtvvh749v5lDAdBG8oNaTt0xFtf_gZw=h310"
+    ],
+    "video": "https://www.youtube.com/embed/SklOL287FAY",
+    "comments": [
+        "Well worth the money. I can't say it's the best emulator out there but I know that I bought it and I am definitely satisfied. It plays all the PlayStation games I've tried so far including final fantasy VII, resident evil 2, and legend of dragoon. All ran perfectly and the controls CAN be mapped leaving nothing to complain about. Absolutely will not disappoint!",
+        "This is a great emulator! (in fact, it's easier to setup on the phone then it is on the computer). Games play great even with the on screen controls!  And the fact they have an online option is amazing! I did have a problem with online though. There was a delay between the two phones to the point where the screens no longer showed the same thing. (online is still in beta though so I don't really care).  Great work devs! Keep it up!",
+        "The emulator is my favorite but I have to give it 1 star because my games disappear from the library and I have to delve into the files to run one. I prefer to just open the app and click the game title to play rather than searching through files to play one. Is there anyone I can speak to about this to get it resolved?",
+        "On Nexus 5 Great app when used with a controller! It takes a little bit of technical knowledge to set up but after that it's so good! Just a time saver- don't download the BIOS off the app Every BIOS like ePSXe says to, download off Google. Every BIOS is broken",
+        "Top Notch Everything about this emulator is quality.  The touch controls are hard to use for me (no harder than any other game) so a USB keyboard or Bluetooth gamepad really take this up another notch.  I guess that would make it floating above the top notch, eh.",
+        "This is the best PS1 emulator around. The only thing I would like changed is the VR settings. I have it set to 'smallest' screen size but the screen is still slightly too large to see the edges. If the dev can add another even smaller option I'll give 5 stars"
+    ],
+    "recentChanges": [
+        "V2.0.7",
+        "* Minor fixes",
+        "Support in epsxeandroid@gmail.com"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.epsxe.ePSXe&hl=en&gl=us",
+    "appId": "com.epsxe.ePSXe"
+}

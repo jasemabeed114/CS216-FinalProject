@@ -1,0 +1,52 @@
+{
+    "title": "Five Nights at Freddy's 3",
+    "summary": "Thirty years after Freddy Fazbear&#39;s Pizza closed it&#39;s doors...",
+    "icon": "//lh6.ggpht.com/A9kng-j9BLaA2dhRGsPExmjy9E4vfG-GHefvmyywT0J67ZEPGONIsFYlIokL5EUNfiHF=w300",
+    "price": "$2.99",
+    "free": false,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4.7,
+    "reviews": 26332,
+    "developer": "Scott Cawthon",
+    "developerEmail": "fazbearhelp@yahoo.com",
+    "developerWebsite": "http://www.scottgames.com",
+    "updated": "April 2, 2015",
+    "version": "1.07",
+    "genre": "Action",
+    "genreId": "GAME_ACTION",
+    "description": "Thirty years after Freddy Fazbear's Pizza closed it's doors, the events that took place there have become nothing more than a rumor and a childhood memory, but the owners of \"Fazbear's Fright: The Horror Attraction\" are determined to revive the legend and make the experience as authentic as possible for patrons, going to great lengths to find anything that might have survived decades of neglect and ruin.At first there were only empty shells, a hand, a hook, an old paper-plate doll, but then a remarkable discovery was made...The attraction now has one animatronic.----------------------------Many people have asked if it's possible to get the good ending on the mobile version because of the small screen size. You CAN get the good ending but the way to get it is slightly different from the PC version.",
+    "descriptionHTML": "Thirty years after Freddy Fazbear&apos;s Pizza closed it&apos;s doors, the events that took place there have become nothing more than a rumor and a childhood memory, but the owners of &quot;Fazbear&apos;s Fright: The Horror Attraction&quot; are determined to revive the legend and make the experience as authentic as possible for patrons, going to great lengths to find anything that might have survived decades of neglect and ruin.<br><br>At first there were only empty shells, a hand, a hook, an old paper-plate doll, but then a remarkable discovery was made...<br><br>The attraction now has one animatronic.<br><br>----------------------------<br><br>Many people have asked if it&apos;s possible to get the good ending on the mobile version because of the small screen size. You CAN get the good ending but the way to get it is slightly different from the PC version.",
+    "histogram": {
+        "1": 812,
+        "2": 369,
+        "3": 917,
+        "4": 2193,
+        "5": 22041
+    },
+    "offersIAP": false,
+    "adSupported": true,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Teen",
+    "screenshots": [
+        "//lh4.ggpht.com/46B7s_b0XMARHF8RwNMMyAoWBZhZdI5rA7FS6OelGs9woqMMHxp47LphwemvQfD4Yw=h310",
+        "//lh4.ggpht.com/36C5u-X87dE3H5rHwUMP9tZgZ8Im-ozgAbZNw_QmZAbuJQ9HCbJNd-Z_7i5Qu2_rNQ=h310",
+        "//lh3.ggpht.com/2Vo4Bja0tVlU4yjoGZLjv7q1dP3GYOy_XrYReWw4whZ_Ym23YpnXRH5nrWNupr1qrYk=h310",
+        "//lh4.ggpht.com/sN2wr2x5reKknGjtyN5gTF9BIvVQHKj2PYII8PpRb5tKKr5cVOuO3ih0c8kS7PEUIO8=h310"
+    ],
+    "comments": [
+        "It needs some improvement but its still fun. If Scott could add movement so you could walk around and check on things in all games that would be awesome. And maybe put some blood on the animatronics. No one knows who caused the bite of 87 it was either bonnie or freddy foxys snout is too long for his mouth to be able to bite some one. Freddys little snout is just the right size to be able to bite of the frontal lobe but then bonnie has the right size to and the same ability to do so.",
+        "A great conclusion to a hopefully not over series. I really like the game. As I did with the the previous 2 games. This has a really good ending to the series. Thank you Scott for making these incredible horror games, and I really hope this isn't the last game because a lot of people including myself are curious as to how it all began at Fredbear's Family Diner.  If this is the end that is ok it was an awesome series thanks again. By far the greatest update so far! Got the animatronic twitching animation.",
+        "U HAVE TO GET THIS GAME When I was in the gamer club I didn't like games that much so I didn't look up any of the games they talked about, and they kept talking about it. So now I'm in the sports club and even they said that I had to get the game. So I first looked at markiplier's play through and now I love his channel. But even more importantly I loved the games. And that is why I give you 5 stars!P.S. all of the games are smooth and no bugs or glitches",
+        "Could be better  [SPOILERS] The First 2 FNaF games were perfect, and top notch!  While this one is.. kind of a downgrade. The only scary jumpscares are the phantom animatronics. While Springtraps Jumpscare is only made me jump once. In the PC version of this game,  he has two Jumpscares, both are disappointing. The game has NO instructions,  it assumes you already know how to play. BUT, when you  learn how to, it is pretty easy-to-use.  I suggest you get the PC version of this game. THE END",
+        "Awesome ITS THE BEST GAME OUT OF ALL TIMES. BETTER THAN 1 AND 2 AND I FOUND OUT ON MY OWN PHANTOM FREDDY IS REALLY GOLDEN FREDDY.  yes i know there only springtrap can kill you but its alittle scarer in a way to me.I cant wait for fnaf 4 THANKS SCOTT IF YOU READ THIS.",
+        "I ABSOLUTELY LOVE IT! OMG! This game is so amazing I love it. Now it is a tie between this one and the 4th one as being my most favorite. I actually think I like this one more than the 4th one. I just love Springtrap (SpringBonnie) so much! Chica (including all Chicas) and Springtrap are my two most favorite animatronics of all time!  Including Mangle. THIS GAME IS OUTSTANDING! I LOVE IT SO MUCH! And the jumpscares are super scary.Love it! (Btw did I mention I love it?)"
+    ],
+    "recentChanges": [
+        "Several bug fixes and added effects."
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.scottgames.fnaf3&hl=en&gl=us",
+    "appId": "com.scottgames.fnaf3"
+}

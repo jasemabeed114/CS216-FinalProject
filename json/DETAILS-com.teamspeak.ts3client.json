@@ -1,0 +1,63 @@
+{
+    "title": "TeamSpeak 3",
+    "summary": "TeamSpeak 3 – gamers’ first choice in voice chat software now back on Android.",
+    "icon": "//lh5.ggpht.com/lxTtzhs4vOmnDeYCn21VmT8aLNUQo46tkDsEB_p3EVT5It4iiQx16MpIZ_6p3Cy-Kv0=w300",
+    "price": "$1.99",
+    "free": false,
+    "minInstalls": 500000,
+    "maxInstalls": 1000000,
+    "score": 3.9,
+    "reviews": 28931,
+    "developer": "TeamSpeak Systems GmbH",
+    "developerEmail": "android@teamspeak.com",
+    "developerWebsite": "http://www.TeamSpeak.com",
+    "updated": "March 28, 2017",
+    "version": "Varies with device",
+    "genre": "Communication",
+    "genreId": "COMMUNICATION",
+    "size": "Varies with device",
+    "description": "With a client rebuild from scratch the programmers of TeamSpeak 3 close the gap and bring you the ultimate TeamSpeak feeling to your Android device. Many client and admin features have been implemented to give our users the best TeamSpeak experience ever on Android. The most important ones:    -Server-, channel-, and private chats    -Automated away status on incoming phone calls    -Creating and managing channels    -Administration of user features: moving, banning, kicking, complaining, blocking, etc.Please visit our forums for a more detailed list of features.Stay connected with your friends, team mates, family and get your TeamSpeak3 client for Android now.",
+    "descriptionHTML": "With a client rebuild from scratch the programmers of TeamSpeak 3 close the gap and bring you the ultimate TeamSpeak feeling to your Android device. Many client and admin features have been implemented to give our users the best TeamSpeak experience ever on Android. The most important ones:<br><br>    -Server-, channel-, and private chats<br>    -Automated away status on incoming phone calls<br>    -Creating and managing channels<br>    -Administration of user features: moving, banning, kicking, complaining, blocking, etc.<br><br>Please visit our forums for a more detailed list of features.<br>Stay connected with your friends, team mates, family and get your TeamSpeak3 client for Android now.",
+    "histogram": {
+        "1": 4452,
+        "2": 1314,
+        "3": 2367,
+        "4": 4841,
+        "5": 15957
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Teen",
+    "screenshots": [
+        "//lh3.ggpht.com/wAJYoySrl6B9yUcm5QLJbJNhRi4P98k-ols0WojvFW3FrS4PXUlggSKeyLWGKPl8RFKA=h310",
+        "//lh4.ggpht.com/1iiZQtXi4R9bPRsuYpi5oM5MRjbkTuhexd--PvSINFj9QkQJtEHPTrTOsr0UBxF2ew=h310",
+        "//lh6.ggpht.com/LElJt2rvLIgAuwWRqBoxTsX5iXEy5R_kWxfdsDmxEOv2qvUrtEpvL_hYQZExxE5oxg=h310",
+        "//lh4.ggpht.com/wAI27uQ_Q2vlium-rA_Me5wClAExduUtuM7HtIF73M8vgkK-L37LqEmOChKJqq4H-RQ1=h310",
+        "//lh4.ggpht.com/w24TruewTcu7RztJH7wAb0AsB2eWKVSd7wIyAALxqWVdkQa-sdJxW3NsRwaViqelISo=h310",
+        "//lh6.ggpht.com/ZA6PFIblEhLhUriNXjmbWoabJajPvG8jghJf6r0F1Vz7wm4e3sXYdOhA7WkvVxqld0s=h310",
+        "//lh6.ggpht.com/pN8xGEGZsM_7ZNKm2cIkdn1O_CFRjsQMOKWxHHkgcOVC4xvtPOldRYYERRv4AWwjoO0=h310",
+        "//lh6.ggpht.com/Ns3by2e3JnS_41mZIN85Y3pKO2N2wfO5wrl0W62lM7WZ3h_MPrLdr_860Vt0HRZadQ=h310"
+    ],
+    "comments": [
+        "The app is now working good again. Can you please upgrade the UI in your next update? We would love to see a minimalist design of your app, or at least make skin packs work on android. Thx! Keep it up!",
+        "3 crashes within 5 minutes, not worth the memory it's saved in. Somehow it crashes when it's not even open. I can't believe it's possible to sell software this bad (Nexus 5, Android 6.0.1)",
+        "Constantly crashing in the background when the app isn't even needed. It shouldn't even be running in the background unless I'm connected to a server.",
+        "Has been using background data for the last couple months, even though I haven't been using it. Also it started crashing in the background when I'm not using it over the last week.",
+        "as someone else said it's now stopped working on samsung galaxy 7 edge. perfect before latest update march 2017",
+        "App crashes since last update (March 2017) even when I'm not using it, please fix this"
+    ],
+    "recentChanges": [
+        "- Added option to set needed talk power in channel edit menu",
+        "- Added option to disable agc(automatic gain control) in settings",
+        "- Fixed a bug where request talk power option not available",
+        "- Fixed disconnect sound were played twice",
+        "- Language can now be changed during runtime",
+        "- Refactored some dialogs",
+        "- Stability improvements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.teamspeak.ts3client&hl=en&gl=us",
+    "appId": "com.teamspeak.ts3client"
+}

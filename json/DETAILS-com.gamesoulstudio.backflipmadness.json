@@ -1,0 +1,59 @@
+{
+    "title": "Backflip Madness",
+    "summary": "Backflip Madness! Fast-paced, parkour-flavored extreme sports game.",
+    "icon": "https://lh5.ggpht.com/zaN0zKAT6-3wRyPCHQSRMa5tm3O2_ia6Nt2Nz9aGU327THiiau86UQcYm-BsjmagRrA=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 500000,
+    "maxInstalls": 1000000,
+    "score": 4.3,
+    "reviews": 25778,
+    "developer": "Gamesoul Studio",
+    "developerEmail": "support@gamesoulstudio.com",
+    "developerWebsite": "http://gamesoulstudio.com",
+    "updated": "August 10, 2013",
+    "version": "1.1.2",
+    "genre": "Arcade",
+    "genreId": "GAME_ARCADE",
+    "description": "Backflip Madness is a fast-paced, parkour-flavored extreme sports game. Your goal is simple - make tons of spectacular tricks and stunts. Take it to the extreme!Features:- Multiple backflips and locations- Parkour/Free running acrobatics- Realistic physics- Achievements, Challanges and Leaderboards (Scoreloop)- 3 difficulty levels- Action replay- Normal and ninja outfits",
+    "descriptionHTML": "Backflip Madness is a fast-paced, parkour-flavored extreme sports game. Your goal is simple - make tons of spectacular tricks and stunts. Take it to the extreme!<br><br>Features:<br>- Multiple backflips and locations<br>- Parkour/Free running acrobatics<br>- Realistic physics<br>- Achievements, Challanges and Leaderboards (Scoreloop)<br>- 3 difficulty levels<br>- Action replay<br>- Normal and ninja outfits",
+    "histogram": {
+        "1": 1743,
+        "2": 1007,
+        "3": 2240,
+        "4": 4770,
+        "5": 16018
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.2 and up",
+    "androidVersion": "2.2",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "https://lh5.ggpht.com/pf9PJ8mT7FoYxpy5i9gFxafBRBFyyPJSEq3ibUM5r6g_xSZcsocTHrqc48aRZGrotVY=h310",
+        "https://lh4.ggpht.com/bhMR5FEodD4FHH-mt8_Z7J0hEtbuVgk20IFI-ZupnIlhm9qeKsVpGjzckrml07cwwSY=h310",
+        "https://lh6.ggpht.com/KR2S1LNcn3iMre4OLMxKAH7m-AmZnreiSa6xPDpZxQlU2EiRoPMOBjiGj6xGAsrPlDEW=h310",
+        "https://lh3.ggpht.com/fiRE6BubdkwkonpDRWRBU8rLZaBrbJoou4udm7YJ9cRvXmp-o1g_rHrGADToZIlwZgE=h310",
+        "https://lh5.ggpht.com/7zaaAGu01wQo8nTHQIo9E9QzmGyB3Bcv8JaTrBf3Ee_or_4fQj74-2XMl-iV6AeaBrk=h310",
+        "https://lh3.ggpht.com/tObWVMGmOL8CJSEeprDCnIe42-Sw6BII42ikVQNWJ3pmiZ3xFC6-mMA1Y9Rz5IpPauqZ=h310",
+        "https://lh3.ggpht.com/U14WRnGPHgwFQlYSmT8j892vH6paypcSGNjE38buTFZxilxeVUcl-KycvAkfvru69XM=h310",
+        "https://lh4.ggpht.com/QxaNJVvhSKSgq4gDR8jcGoKtQ-dhZe8J6fSfQrXpBbwXV8kMlrDIqtae-nN1RjkIwHA=h310"
+    ],
+    "video": "https://www.youtube.com/embed/_wPDk-5SCVU",
+    "comments": [
+        "Great game with a challenging mechanic This is a five star game for me and maybe for you too if you like simple games with a little challenge. To the reviewer who said that the game falls on not providing a way to pick a specific jump and let you perfect it, well that's free play mode.     Problem solved. I'd like to see a sequel that's a bit more fast paced where you coil make a second flip off the rebound of your last one.",
+        "Fun game Found a small bug. When you do your last flip on any level, the prompt for continuing to the next level comes up, disabling the replay button so you never get to replay your last flip which is usually the gnarliest one. I also think game play would be better if the chance of each challenge had it's own number of tries rather than a single amount for the entire level. You could even implement this by something like 1 try for the easiest and 3 for the toughest. Sweet game and hilarious at times. Thanks.",
+        "Fun! I have always been a fan of ragdoll games because their simplicity and lack of boundaries. This game is the perfect blend of both and it makes for many hours of continuous laughter. Games rarely make me laugh. It's challenging but not impossible and the replay value for such an inexpensive game is great! I would recommend at least trying out the demo.",
+        "Fun but could be better This game could be an instant classic, because the gameplay is absolutely amazing. But there are several things holding it back: Cheap looking graphics, too slow camera movement, a very limited xp system that stops on lvl 5 and too few stages. I would like to see an improved version addressing these issues and allowing user-generated content such as a level editor and custom skins on the protagonist.",
+        "Backflip Madness We want more! Great app! To those who find the game difficult, practice landing the double back flip in the later levels(5&up) while in free play to make it easy. Also, for the long leaps,  delay your timing on the second tap on the high or longand you'll master the game! The lunar mode is awesome!",
+        "Great game but mild issues... Love this game so much! I can't seem to get enough of it, but I have one problem... when I play the Country 1 level, on the last jump, my guy leans forward and not backward. So when I jump, Im jumping away from the target area and not toward it. I actually end up doing a front flip. Please fix. Other than that, wonderful game!"
+    ],
+    "recentChanges": [
+        "- Bug fixes",
+        "- Fix for devices with Adreno 225 GPU (SGS3 4G/LTE, EVO, One S/X/XL)",
+        "- Safe mode (if you experience graphics-related issues, crashes or freezes)"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.gamesoulstudio.backflipmadness&hl=en&gl=us",
+    "appId": "com.gamesoulstudio.backflipmadness"
+}

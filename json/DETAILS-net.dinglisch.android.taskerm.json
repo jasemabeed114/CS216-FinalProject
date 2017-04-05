@@ -1,0 +1,63 @@
+{
+    "title": "Tasker",
+    "summary": "Automate everything from settings to photos, SMS to speech. ADC2 prize winner.",
+    "icon": "//lh3.ggpht.com/5K71mXi2uEXHpWsVY62F1ItB47MgXoCjAFABgu6MqPUjwDCP5KFlLNLWysQVebnEwF8=w300",
+    "price": "$2.99",
+    "free": false,
+    "minInstalls": 1000000,
+    "maxInstalls": 5000000,
+    "score": 4.6,
+    "reviews": 40865,
+    "developer": "Crafty Apps EU",
+    "developerEmail": "support@apps.dinglisch.net",
+    "developerWebsite": "http://tasker.dinglisch.net",
+    "updated": "January 17, 2017",
+    "version": "Varies with device",
+    "genre": "Tools",
+    "genreId": "TOOLS",
+    "size": "Varies with device",
+    "description": "Total Automation, From Settings to SMS.* Triggers: App, Time, Day, Location, Hard/Soft State,  Event,  Shortcut, Widget, Timer, Plugins* Actions: 200+ built-in, plugin support* Tasks: loops, variables, conditions* Scenes: design your own screen overlays* App Creation: create your own standalone apps to share or sell! (Android 2.3+)Trial: http://tasker.dinglisch.net/dlStarter Guides: http://tasker.dinglisch.net/guides.htmlQueries, Problems: see Menu / Info / Support in-appIt's not possible to fix problems reported via Play Store Comments...****** Actions By Category ******[not all actions available on all devices]* ALERT:  Flash, Notify LED/Sound/Vibrate, Cancel Notification, Popup Timed/WithTaskIcons/Names, Torch, Vibrate, Vibrate Pattern* APP: Calendar Insert, Go Home, Kill App, Load App, Open Map (/StreetView/Nav)* AUDIO: Alarm/Call/DTMF/Media/Notif./Ringer/System Volume, Haptic Feedback Toggle, Mic Mute, Notification Pulse, Notification(<4.1)/Ringer Vibrate (<4.2 or root), Silent Mode, Speakerphone, Sound Effects toggle* DIALOG: 28 System Settings dialogs* DISPLAY: Auto-Brightness, Close System Dialogs, Keyguard, Keyguard Pattern, Display Brightness, Display Off Timeout, Display Rotation, Set Wallpaper, Stay On, Status Bar (expand/collapse)* FILE: Browse Files, Directory Create/Delete/Move, File Copy/Delete/Move/Open, Write To File, Read Line, Read Paragraph, Zip/Unzip File* INPUT: Button, Dpad (root only), Type (root only), Input Method Select, Soft Keyboard (show)* MEDIA: Media Button Events (grab), Media Player Control, Music File/Dir, Play/Forward/Back/Stop, Photo/Series/TimeSeries, Record Audio, Record Audio Stop, Ringtone, Scan Card* MISC: (Broadcast) Action Intent, Component Intent, Get Location, GPS Status (<2.3 or Cyanogen/submod), Run (ASE) Script, Say, Say To File, Shut Up, Search For, Set Clipboard, Reboot (root only), Set CPU (root only) Set Timezone* NETWORK: Airplane Mode (<4.1 or root), Autosync, BT, BT ID, Compose Email, Browse URL, HTTP GET, HTTP POST, Mobile Data (on/off), Mobile Data 2G/3G (Cyanogen only), USB Tether, WiFi Toggle, Wifi Disconnect/Reassociate/Reconnect, Wifi Sleep, Wifi Tether, Wimax Toggle* PHONE: Call, Call Log, Call Block/Divert/Revert, Compose MMS/SMS, Contacts, End Call, Radio, Send SMS, Send Data SMS, Silence Ringer, Take Call* TASKER: Change Icon Set, If, End If, Goto Action, Perform Task, Profile Toggle, Query Action, Set Widget Icon, Set Widget Label, Stop, Wait, Wait Until* VARIABLES: Set, Clear, Inc, Dec, Query, Randomize, Split, Join, List* 3RD PARTY: Android Notifier, Astrid, BeyondPod, JuiceDefender Data/Toggle, Gentle Alarm, NewsRob, OfficeTalk, SleepBot, SMS Backup+, TeslaLED, WidgetLocker****** States ******Airplane Mode, BT Connected, Calendar Entry, Docked, Headset Plugged, Incoming Call, Keyboard Out, Light Level, Media Button, Missed Call, Mobile Network, Device Orientation, Power, Various Sensors, Signal Strength, Unread Text, Variable Value, Wifi Network, Wifi Near****** Events ******Alarm Clock/Done, Date Set, Time/Date Set, Timezone Set, Display: Off/On/Unlocked, File Closed/Deleted/Modified/Moved/Opened/Attributes Changed, Camera/Search Button Long-Press, Card Mounted/Removed/Unmounted, Gesture,Missed Call, Phone Changes, Received Text, SMS Send Success/Failure, Battery Changed/Full/Low/Overheating, Device Boot, Device Shutdown, Storage Low, Locale Changed, New/Removed/Updated Package, Wallpaper Changed, Button Gadget Clicked, New Window, Notification, Notification Clicked, Zoom Click, Variable Cleared/Set, K9 Email Received, Gentle Alarm, Kaloer Clock, OpenWatch, Reddit Notify, Screebl, Widget Locker",
+    "descriptionHTML": "Total Automation, From Settings to SMS.<br><br>* Triggers: App, Time, Day, Location, Hard/Soft State,  Event,  Shortcut, Widget, Timer, Plugins<br>* Actions: 200+ built-in, plugin support<br>* Tasks: loops, variables, conditions<br>* Scenes: design your own screen overlays<br>* App Creation: create your own standalone apps to share or sell! (Android 2.3+)<br><br>Trial: http://tasker.dinglisch.net/dl<br>Starter Guides: http://tasker.dinglisch.net/guides.html<br>Queries, Problems: see Menu / Info / Support in-app<br><br>It&apos;s not possible to fix problems reported via Play Store Comments...<br><br>****** Actions By Category ******<br><br>[not all actions available on all devices]<br><br>* ALERT:  Flash, Notify LED/Sound/Vibrate, Cancel Notification, Popup Timed/WithTaskIcons/Names, Torch, Vibrate, Vibrate Pattern<br>* APP: Calendar Insert, Go Home, Kill App, Load App, Open Map (/StreetView/Nav)<br>* AUDIO: Alarm/Call/DTMF/Media/Notif./Ringer/System Volume, Haptic Feedback Toggle, Mic Mute, Notification Pulse, Notification(&lt;4.1)/Ringer Vibrate (&lt;4.2 or root), Silent Mode, Speakerphone, Sound Effects toggle<br>* DIALOG: 28 System Settings dialogs<br>* DISPLAY: Auto-Brightness, Close System Dialogs, Keyguard, Keyguard Pattern, Display Brightness, Display Off Timeout, Display Rotation, Set Wallpaper, Stay On, Status Bar (expand/collapse)<br>* FILE: Browse Files, Directory Create/Delete/Move, File Copy/Delete/Move/Open, Write To File, Read Line, Read Paragraph, Zip/Unzip File<br>* INPUT: Button, Dpad (root only), Type (root only), Input Method Select, Soft Keyboard (show)<br>* MEDIA: Media Button Events (grab), Media Player Control, Music File/Dir, Play/Forward/Back/Stop, Photo/Series/TimeSeries, Record Audio, Record Audio Stop, Ringtone, Scan Card<br>* MISC: (Broadcast) Action Intent, Component Intent, Get Location, GPS Status (&lt;2.3 or Cyanogen/submod), Run (ASE) Script, Say, Say To File, Shut Up, Search For, Set Clipboard, Reboot (root only), Set CPU (root only) Set Timezone<br>* NETWORK: Airplane Mode (&lt;4.1 or root), Autosync, BT, BT ID, Compose Email, Browse URL, HTTP GET, HTTP POST, Mobile Data (on/off), Mobile Data 2G/3G (Cyanogen only), USB Tether, WiFi Toggle, Wifi Disconnect/Reassociate/Reconnect, Wifi Sleep, Wifi Tether, Wimax Toggle<br>* PHONE: Call, Call Log, Call Block/Divert/Revert, Compose MMS/SMS, Contacts, End Call, Radio, Send SMS, Send Data SMS, Silence Ringer, Take Call<br>* TASKER: Change Icon Set, If, End If, Goto Action, Perform Task, Profile Toggle, Query Action, Set Widget Icon, Set Widget Label, Stop, Wait, Wait Until<br>* VARIABLES: Set, Clear, Inc, Dec, Query, Randomize, Split, Join, List<br>* 3RD PARTY: Android Notifier, Astrid, BeyondPod, JuiceDefender Data/Toggle, Gentle Alarm, NewsRob, OfficeTalk, SleepBot, SMS Backup+, TeslaLED, WidgetLocker<br><br>****** States ******<br><br>Airplane Mode, BT Connected, Calendar Entry, Docked, Headset Plugged, Incoming Call, Keyboard Out, Light Level, Media Button, Missed Call, Mobile Network, Device Orientation, Power, Various Sensors, Signal Strength, Unread Text, Variable Value, Wifi Network, Wifi Near<br><br>****** Events ******<br><br>Alarm Clock/Done, Date Set, Time/Date Set, Timezone Set, Display: Off/On/Unlocked, File Closed/Deleted/Modified/Moved/Opened/Attributes Changed, Camera/Search Button Long-Press, Card Mounted/Removed/Unmounted, Gesture,Missed Call, Phone Changes, Received Text, SMS Send Success/Failure, Battery Changed/Full/Low/Overheating, Device Boot, Device Shutdown, Storage Low, Locale Changed, New/Removed/Updated Package, Wallpaper Changed, Button Gadget Clicked, New Window, Notification, Notification Clicked, Zoom Click, Variable Cleared/Set, K9 Email Received, Gentle Alarm, Kaloer Clock, OpenWatch, Reddit Notify, Screebl, Widget Locker",
+    "histogram": {
+        "1": 1348,
+        "2": 836,
+        "3": 1594,
+        "4": 5684,
+        "5": 31403
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "Varies with device",
+    "androidVersion": "VARY",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/51KYDmJJ0cvYsi9A8hI3HWnuqZa4e9TWGspnV1EID2D7vGEGcjfdXqdPQRLvd1lrpEo=h310",
+        "//lh3.ggpht.com/j4YdpxCCijAest-7NOZXjXYBu51p__jlxJIOVM_jd-BDeLTKeakCjmYieULT_kDVI_Uz=h310",
+        "//lh5.ggpht.com/N44y2lrWZM47U0aUZMRLgKFHiknRlE13zZSEbr-sqSZHX4neRwUkpPmmlv1Luj0RNwk=h310",
+        "//lh6.ggpht.com/w4SmUodK5HJu4SI3agZ_qQ-gkcbTWTpc8guAZ84iIfI7NV2zdQ76_mrdYpQlwhX8J-E=h310",
+        "//lh3.ggpht.com/4FmLOA3vo-oVRGrTjGrentCej3huFmaKU3db3pnNrQqJpg9SZnPAWf_t80G_kNHa8eE=h310",
+        "//lh5.ggpht.com/WcfFbA4D-H4CcRUDhRP4DHUlxZufJZPlGWWtJe7aCQCBMFu4cSiXGrrgxBGTwdRtM_y2=h310"
+    ],
+    "comments": [
+        "I am a huge fan of exelent customer service. I sent email to support asking a question, (I looked in the forums for a while. Couldn't find anything) Within 24 hours I received an email back with a link to some solutions. Absolutely amazing. I did have an issue installing. And the link solved it. I am stunned and will recomends nothing but this app to anyone looking for an automation app. Seriously. This app is absolutely the most powerful automation app out there. And I will continue to use it.",
+        "I recently purchased this app and I find it very useful it's so useful that I found that I can do 2 things with this one app that I'd need 2 separate apps for(locking apps and power management) and that's just the start. BUT I HAVE ONE MAJOR GRIPE, WHENEVER I OPEN TASKER IT FEELS LIKE IM RUNNING KITKAT AND THIS APP HAS BEEN UPDATED AS RECENT AS 2017!!!!!!!!!!!!! SOME MATERIAL DESIGN WOULD BE NICE 😉.",
+        "I don't like it because it clears all my profiles I've made when I clear all applications. I'm not even sure I ever got the profiles to work and have just settled for manual activation of phone functions anyway. Additionally it had no access to my samsung galaxy's 'power saving' function and I couldn't set it up for a nightly toggle on and off.",
+        "The concept is great, but it is impossible to use. The UI is among the worst I've ever seen. It doesn't follow a single standard Android design practice. Documentation is sparse and outdated. You'll spend hours fumbling your way through incomprehensible menus only to be more confused than when you started. Making anything of even modest complexity will make you pull out your hair.",
+        "Powerful and feature-rich I got this app to help do some small things like change the ringer volume automatically when I get to work, or change the brightness when I wake up. Lately though, I'm finding much more interesting things to do, like manage off-site backups and automatic weather and theme swapping for day/night. And I'm only scratching the surface of what I can do with this app!",
+        "It is ~~one of~~ the best automation tool for Android. Tasker is behaving weird. It doesn't recognize files when use root is selected. It gives error that it is a dir. Checking file size always gives 1 when root is used, and without root, it doesn't start the action. In marshmallow it worked fine, but it is having problem in CM 14.1 😢 Still not fixed in latest update."
+    ],
+    "recentChanges": [
+        "4.9u1/u2/u3/u4",
+        "* mostly bugfixes and tuning",
+        "4.9",
+        "* added network access control per-app without root for Android 6.0+, otherwise all-apps",
+        "* actions in File category: support for new external SD access API (Android 5.1+)",
+        "* Android 7.0 bugfixes and additions",
+        "* added Portuguese (Brazil) translation (many thanks to Breno Rafael Corrêa)",
+        "Many other additions, changes and bugfixes.",
+        "Details: http://tasker.dinglisch.net/changes.html"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en&gl=us",
+    "appId": "net.dinglisch.android.taskerm"
+}

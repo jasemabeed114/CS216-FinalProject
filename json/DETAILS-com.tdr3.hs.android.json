@@ -1,0 +1,52 @@
+{
+    "title": "HotSchedules",
+    "summary": "Better Together",
+    "icon": "//lh3.googleusercontent.com/0TnyrMEjbfbos65rE-uBNYDG0KVXbazx_p8pXk5ghuwF_AYwdZfmSl1iKeHxvG1dIg=w300",
+    "price": "$2.99",
+    "free": false,
+    "minInstalls": 500000,
+    "maxInstalls": 1000000,
+    "score": 3.3,
+    "reviews": 10495,
+    "developer": "HotSchedules",
+    "developerEmail": "support@hotschedules.com",
+    "developerWebsite": "http://www.hotschedules.com",
+    "updated": "March 30, 2017",
+    "version": "4.52.0-1070",
+    "genre": "Productivity",
+    "genreId": "PRODUCTIVITY",
+    "description": "HotSchedules’ Android application 2.0 includes a completely revamped interface and delivers an incredible user experience.  It is compatible for use on both smartphone and tablet devices.  The HotSchedules mobile application is a powerful, fast and intuitive tool that gives current HotSchedules users the ability to manage their work schedules right from a smartphone or tablet.  True to our passion to serve those who serve others, HotSchedules is benefitting over a 1 million users that depend on our products to view their schedule, communicate with their peers, and manage their labor.  Managers, do you want to be a superhero to your employees?  With HotSchedules mobile now you can!  Use this app to see who’s working, approve employee requests, and record your daily operations.With over 18,000 companies using HotSchedules, chances are you’re just a click away from releasing the shackles of paper schedules.  Make sure to ask if your company uses HotSchedules.  You’ll be relieved when they do. - MUST BE A CURRENT HOTSCHEDULES USER",
+    "descriptionHTML": "HotSchedules&#x2019; Android application 2.0 includes a completely revamped interface and delivers an incredible user experience.  It is compatible for use on both smartphone and tablet devices.  <br><br>The HotSchedules mobile application is a powerful, fast and intuitive tool that gives current HotSchedules users the ability to manage their work schedules right from a smartphone or tablet.  <br><br>True to our passion to serve those who serve others, HotSchedules is benefitting over a 1 million users that depend on our products to view their schedule, communicate with their peers, and manage their labor.  <br><br>Managers, do you want to be a superhero to your employees?  With HotSchedules mobile now you can!  Use this app to see who&#x2019;s working, approve employee requests, and record your daily operations.<br><br>With over 18,000 companies using HotSchedules, chances are you&#x2019;re just a click away from releasing the shackles of paper schedules.  Make sure to ask if your company uses HotSchedules.  You&#x2019;ll be relieved when they do. <br><br>- MUST BE A CURRENT HOTSCHEDULES USER",
+    "histogram": {
+        "1": 2629,
+        "2": 1026,
+        "3": 1151,
+        "4": 1715,
+        "5": 3974
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/np6JNgXk7yS89Kx4xQFFodufLbVdSsm0u7AQtBWx3dxA8W-l_HY2WMrMQXV3Zm6WBiu8=h310",
+        "//lh3.googleusercontent.com/OMFKNdqscs0DigiHirO10gw8ejz6fL74oC58wufJIK5SKAZqb1Oc4x1WUX0UulHB-Q=h310",
+        "//lh3.googleusercontent.com/OCZGrimpU4YxtjaMyFy-oxoaLQolU3cBft0Zni-55BfMigGwjeCF7cELYizczLC4Lck=h310",
+        "//lh3.googleusercontent.com/Ol3RR6qJN1SD8Yana4Jkkhholm9u_tYRZpLIxlJjRB2-DfV1acBPKRHBt2ZCkMnUrbE=h310"
+    ],
+    "comments": [
+        "It keeps showing me my schedule from the previous week . and not able to see my new schedule cause of it. I have uninstalled it , and installed it again ... And it'd doing the same thing. Very frustrating   So I am using the internet instead . please.fix.or refund my money",
+        "App gets worse with each update. It's buggy and lacks some features from the iOS version like availability requests.",
+        "Not worth $2.99 or even $.99. Use the website. This app has many problems. Request dates show up incorrectly. Shifts on my schedule will disappear. Newest version is much cluttered and harder to use in terms of scheduling.",
+        "App keeps giving me a error message that my message can not be posted or that there was an error. My post are being sent but error message pops up even though it has been posted .",
+        "This app is always syncing my calendar but with an inaccurate schedule, it's always saying I'm scheduled 3 hours prior to when I'm actually scheduled.  A paid app for scheduling can't even schedule accurately.",
+        "Needs speed improvement but works fine. When filtering threw roster days sometimes it carries over the same data to another day."
+    ],
+    "recentChanges": [
+        "Various bug fixes and improvements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.tdr3.hs.android&hl=en&gl=us",
+    "appId": "com.tdr3.hs.android"
+}

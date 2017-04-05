@@ -1,0 +1,59 @@
+{
+    "title": "The Escapists",
+    "summary": "Dive in the multi-million selling prison escape game, now on Android!",
+    "icon": "//lh3.googleusercontent.com/wTQM8FwQrga3iPjPuYxW19Q1Ijsh0Virly4-SxE2UYKOiPNZB5skMgjIwypH0zw0xR0Y=w300",
+    "price": "$3.99",
+    "free": false,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.4,
+    "reviews": 1123,
+    "developer": "Team 17 Digital Limited",
+    "developerEmail": "help@team17support.com",
+    "developerWebsite": "http://www.team17.com",
+    "updated": "March 13, 2017",
+    "version": "1.0.2",
+    "genre": "Strategy",
+    "genreId": "GAME_STRATEGY",
+    "description": "Dive in the multi-million selling prison escape game, now on Android!Craft, Steal, Brawl and ESCAPE!You’ve landed yourself in prison again, and your only chance is to engineer an escape by any means necessary. How you do it is up to you! Why not cause a prison riot? Or dig a tunnel right under the walls of the prison? Or even steal a guard uniform to blend in with your captors?The Escapists is a unique prison sandbox experience with lots of items to craft and combine in your daring quest for freedom. Life in prison will keep you on your toes with the strict rules that you’ll have to break. The guards are out to stop any escape attempts, so you’ll have to avoid suspicious behaviour by attending roll calls, working a prison job and hiding your stolen craftables. Escaping is what you do best, and you’ll have to prove your skills in a variety of challenging prisons from across the world.Become an Escapist now!",
+    "descriptionHTML": "Dive in the multi-million selling prison escape game, now on Android!<br><br>Craft, Steal, Brawl and ESCAPE!<br><br>You&#x2019;ve landed yourself in prison again, and your only chance is to engineer an escape by any means necessary. How you do it is up to you! Why not cause a prison riot? Or dig a tunnel right under the walls of the prison? Or even steal a guard uniform to blend in with your captors?<br><br>The Escapists is a unique prison sandbox experience with lots of items to craft and combine in your daring quest for freedom. Life in prison will keep you on your toes with the strict rules that you&#x2019;ll have to break. The guards are out to stop any escape attempts, so you&#x2019;ll have to avoid suspicious behaviour by attending roll calls, working a prison job and hiding your stolen craftables. <br><br>Escaping is what you do best, and you&#x2019;ll have to prove your skills in a variety of challenging prisons from across the world.<br><br>Become an Escapist now!",
+    "histogram": {
+        "1": 87,
+        "2": 21,
+        "3": 64,
+        "4": 136,
+        "5": 815
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Teen",
+    "screenshots": [
+        "//lh3.googleusercontent.com/zDmbv8p89ftAYuY9ddwkJq6JkrAXxaaM6Fnfy5RewJnen01Szlpu4Z-JPka8ri8Lsg=h310",
+        "//lh3.googleusercontent.com/_ZMu4xjGKX0zA2FRt3BU-wCeEuAD6M4ZVd1LrJGOLYf0l10OE2rUy1kGHiTtWDkM-ezP=h310",
+        "//lh3.googleusercontent.com/PI9gm2bUfkg1mwH-SGEmH647eTEgW1Vzqichp71lq149LIl2hjdOBF6xmVhd6JbKpxE=h310",
+        "//lh3.googleusercontent.com/iA018E-g0IS7tWZp9b_OOgQU82uP_JcXWkS_Uw0hhZPcGELSRKyhDMPdR9R5L3IOSeBw=h310",
+        "//lh3.googleusercontent.com/fNonqPU4nHjdGetTBPcOVfuoMatfzNgfFlmQAEFUQa37lYOP7SFBxsWU3Pl2KpSQ6g0=h310",
+        "//lh3.googleusercontent.com/Wo3mKu9YC5mm8qjCXthxeVSqW5gJFyMOqBDpQ19pS97dHqpuEe-gNZJ_j1l9nuTMax8=h310",
+        "//lh3.googleusercontent.com/5_ZBdscUWB9PC9H8ze1H-uVZdcwfeJ51VxC6DJcYVFLOluTNi2aHSy27aqNloW1u6iM=h310",
+        "//lh3.googleusercontent.com/9arsQ32tCdSzCx0quVgNESLo7RYw0pIpQvewCp8UmWONhFzGNhWuS6WKbs-JbbVGhOE=h310",
+        "//lh3.googleusercontent.com/4HgnvMZnC8vHOz1K-2q585inBVRy_c-XOh-adEZzIIM66cxv6uTSIqGuvenB-BYbVYIk=h310",
+        "//lh3.googleusercontent.com/p8HXSK6ZNAb_9gnDlbjoc2LfQ8pEF9u1G9WF2LJGvG0u2T9Z5q5RCYHLXmVn2-sX9g=h310"
+    ],
+    "comments": [
+        "I downloaded this app after watching it on YT and couldn't play because of a license issue. Team 17 then sent an email telling me how to fix it. I'm sure it was helpful but I managed to fix it right before the email. The game is great. Overall my opinion is that they could add more prisons, co-op with friends. And update the Ais so they sometimes try to escape. Thanks Team 17.",
+        "Overall very good. Though in the prisons when I click on say the canteen my character tries to go through the door. Also I think it's a little to easy, on jungle compound, but beat the other 3 in 2 to three days. Also are you going to add any of the free prison, and dlc to the games. I feel also that reading takes to long, and when I get attacked by other prisoners and just let the guards handle it they attack me to. Last thing in jungle compound during free periods, the guards are always near the cells and I can only get stuff during other periods, like lunch or exercise, just a couple. Also I feel that the durable contraband pouch should be added, as well as the boxes with usefull stuff. Love it okay last thing, I wish we could rename the warden.",
+        "This is a great port for the pc version. Ive just run into a few bugs. Sometimes your hotbar will disappear and you can not pick up or put down items, then sometimes you are forced to fight people and you cannot run away, if you do, you automatically run back to them. Other than that, amazing!",
+        "A good game that just needs a few improvements to be really great. The only problem I have is the fact that random characters will just attack me for no reason as I pass by, and I will end up in the infirmary with none of my contraband items. If you could fix this it would be great because this is a really good game.",
+        "I have play this game before but now when I try to install  the game it doesn't work even though I have enough space for it.  After it says I can't get it unfortunately Goggle Play stop working. I'm not sure if it's my tablet or the game. But to be honest I 💙 this game alot 👍👌.",
+        "This game is a great port! It's exactly like the PC version. But... there's a couple things about the gameplay I find sort of frustrating. Sometimes you're forced to fight someone, and the game forcefully pushes you at the target. Also, You can get beat up while the opening transition is playing. This port is new, so I still think it's great, but if those bugs could be fixed the game could be even better"
+    ],
+    "recentChanges": [
+        "- Fixed an issue whereby the game needed an online connection for every launch",
+        "- Various bug fixes and improvements"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.team17.escapists&hl=en&gl=us",
+    "appId": "com.team17.escapists"
+}

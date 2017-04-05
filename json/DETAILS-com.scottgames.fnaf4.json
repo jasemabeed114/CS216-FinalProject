@@ -1,0 +1,63 @@
+{
+    "title": "Five Nights at Freddy's 4",
+    "summary": "This time, the terror has followed you home!",
+    "icon": "//lh3.googleusercontent.com/od7MI1uOFMjj2Kvtk4Tc1Rt-YdDFmgLjE33yZlVINjhbj_NZ5ikZGT_YWpCP0LAGMg=w300",
+    "price": "$2.99",
+    "free": false,
+    "minInstalls": 100000,
+    "maxInstalls": 500000,
+    "score": 4.6,
+    "reviews": 19779,
+    "developer": "Scott Cawthon",
+    "developerEmail": "fazbearhelp@yahoo.com",
+    "developerWebsite": "http://www.scottgames.com",
+    "updated": "July 25, 2015",
+    "version": "1.1",
+    "genre": "Action",
+    "genreId": "GAME_ACTION",
+    "description": "NOTE: This game requires at least 512 megs of RAM. Phones with less than that may crash!In this last chapter of the Five Nights at Freddy's original story, you must once again defend yourself against Freddy Fazbear, Chica, Bonnie, Foxy, and even worse things that lurk in the shadows. Playing as a child whose role is yet unknown, you must safeguard yourself until 6am by watching the doors, as well as warding off unwanted creatures that may venture into your closet or onto the bed behind you.You have only a flashlight to protect yourself. It will scare away things that may be creeping at the far end of the hallways, but be careful, and listen. If something has crept too close, then shining lights in its eyes will be your end.",
+    "descriptionHTML": "NOTE: This game requires at least 512 megs of RAM. Phones with less than that may crash!<br><br>In this last chapter of the Five Nights at Freddy&apos;s original story, you must once again defend yourself against Freddy Fazbear, Chica, Bonnie, Foxy, and even worse things that lurk in the shadows. Playing as a child whose role is yet unknown, you must safeguard yourself until 6am by watching the doors, as well as warding off unwanted creatures that may venture into your closet or onto the bed behind you.<br><br>You have only a flashlight to protect yourself. It will scare away things that may be creeping at the far end of the hallways, but be careful, and listen. If something has crept too close, then shining lights in its eyes will be your end.",
+    "histogram": {
+        "1": 929,
+        "2": 412,
+        "3": 809,
+        "4": 1793,
+        "5": 15836
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "2.3 and up",
+    "androidVersion": "2.3",
+    "contentRating": "Teen",
+    "screenshots": [
+        "//lh3.googleusercontent.com/7z9FaOrd4nlPP-0dJkpmqUQaYH9Rbv5Pq4VEJPr66q8Zj3jUQwDSC8hf0lID6HaJ1w=h310",
+        "//lh3.googleusercontent.com/fsjNZfNpd5MLK4_ixzoVtPwsD5Vhl-55xdMdSbot8ny8IQVY7EwPfvnm6lTJi2UeWg=h310",
+        "//lh3.googleusercontent.com/Mj7pJXCOwIXSPVu7AQ7KAcvGUMCpu6k1PniIyY2Q8P4gCs_-8JxTLhXtxSWFf_aqqg=h310",
+        "//lh3.googleusercontent.com/Vy3J7xVq0x5j0K5jusr207kTrM8LC49vbIW6I-dKuUK1c_IubL0Ulpmnlzu-smfCsKQ=h310",
+        "//lh3.googleusercontent.com/DDuUShYYzKIIUh2wVg5cyZRuW2IU4FAfGMJ6DkyB6CMZ8uc4nIkLjei6YTHOZgSdAA=h310",
+        "//lh3.googleusercontent.com/eJ4ETv4DI_oHxZkD59_yCI2VtxKphp5wS5i3ZKhraIcf_pcKygkzqod2319bvF-pww=h310",
+        "//lh3.googleusercontent.com/0XUZoXTcw0YpCuM0Adpq2ipW-pBeKyH1fAYdVhkTt-K456N8YZb4ocF2Okrkn6N1Tx4=h310",
+        "//lh3.googleusercontent.com/_-9Jr8hF2DdjNJa-doWToO_o6CXOh63F_Ct8rQQ3YshAt0EFMQzraucArlw20oaSUw=h310",
+        "//lh3.googleusercontent.com/UznqX1hN75YyNBtnzX1zRcfRkfgIWNqfUDdluN7nA9eRRJVZD9DewFowzYB5fUuHqUI=h310",
+        "//lh3.googleusercontent.com/Sf9BqL-si4Kac-VxkQaD0P_R69VFr3Tvpfwcqe4BD6wxkF-bPiKPVSPSAN29AgYh_g=h310",
+        "//lh3.googleusercontent.com/dhuicyd-ou3dN9hwvMO2zk1ht5dQxXstzZ5qTA33Xuzwc5E0jnXoHFHolvY5cneaWGQ=h310",
+        "//lh3.googleusercontent.com/bXoZToAzWd3WUpcERHkfV8mhmXIYIkZIm2unkh9JRZdlK6LY1Db8_0AtZCFsYlktxbE=h310",
+        "//lh3.googleusercontent.com/FpY7YwAeQ3Gj5jqBNcy86xa-o3JDAvARujcWBS1FZsp8Lvu5d3ZrUyPYFf2G30cKO2k=h310",
+        "//lh3.googleusercontent.com/g7jW0yp3ih-Xh6jrF-ZtRkBIwGarvI6ebQJHGnxmiGIRP6WU6GQTSLOm1kzwIMdpww=h310",
+        "//lh3.googleusercontent.com/-37O-6UufbtMIHAHD9nW-6TDJIVG8g6LftewWWzAP98Tmb-F_vcNp8e0QKaGQlt1tlg=h310"
+    ],
+    "comments": [
+        "Great but missing the mini games I know the mobile version will be different but where are the mini games? I've seen them on the computer version when people have played it. The 2nd and 3rd game had them so I'm just wondering why the 4th one on mobile doesn't. I'll give 5 stars when I see the mini games. I know it'll be more difficult to fix the mobile version so I hope you can fix it eventually. Overall it's the best and my favorite of the series, definitely better than the 3rd one. I like that it has a good horror theme even on the game menu, great work!!!! you've created a wonderful game series over the year.",
+        "Great game. I love the FNAF series The latest update shows breathing volume is loader however i still can't hear any type of breathing. Unless idk what I'm listening for. I still can't here breathing. Witch makes the game impossible to beat. I can't beat the first night because idk if the animatronics is at the door. Other than that works great. Also the words on the main screen (new game, continue) needs to be a little bigger. I seem to be accidentally pressing new game than continue :( plz fix this. THANKS",
+        "Keeps Crashing!  :( What I HAVE been able to play, I LOVE! However, the game stops on me constantly. I have an Acer Iconia. Interestingly enough, it appears to work better on an OLDER Acer Iconia I have, which is now my son's. I tried stopping all other apps on my tablet while playing to see if that would help, but it didn't. Pleeeease fix this issue! I want to keep playing, because so far it seems awesome, but I can't go any further in the game without it shutting down.  Definitely 5 stars once this issue is resolved.",
+        "Best and the scariest game This is my most favorite game and out of all FNaF games I've played this is one is the scariest. I hope that Sister Location is even scarier I can't wait till FNaF5 (Sister Location ) comes out. I hope this scary file never ends! Keep it up! Also can you please add Explosive Foxy to FNAF World?!",
+        "Love this game but.... I love this game but every time I try beating night 6, it keeps crashing, so Scott please fix and I will rate 5 stars. (Some information about it may be wrong. IDK) I also love the fnaf series. They are fun, challenging, and great! Thank you Scott for making this! Can't wait for sister location! I love 5 nights at freddy's! :)",
+        "Amazing end to the franchise. This game is in my opinion the scariest of the bunch well done Scott! This series has brought so many fans to bring speculation. Scott has always been very clever with his little hints. I can't wait until the Halloween dlc. I will miss all of the mysteries and Easter eggs thanks again Scott for this series. And are we going going to see a Halloween update for android at all? Just curious because it's way past halloween November 16th to be exact. I know I'm not the only one looking for it."
+    ],
+    "recentChanges": [
+        "The breathing volume is now louder!"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.scottgames.fnaf4&hl=en&gl=us",
+    "appId": "com.scottgames.fnaf4"
+}

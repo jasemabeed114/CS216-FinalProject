@@ -1,0 +1,49 @@
+{
+    "title": "GiraffeMoji",
+    "summary": "GiraffeMoji",
+    "icon": "//lh3.googleusercontent.com/bAlN7N586fo7LggxgnhSi4geiVrzZlULHY6L6tRwVDSD9RkkaoP23TBwQCVSKFpN4A=w300",
+    "price": "$1.99",
+    "free": false,
+    "minInstalls": 5000,
+    "maxInstalls": 10000,
+    "score": 4.7,
+    "reviews": 444,
+    "developer": "AppMoji, Inc.",
+    "developerEmail": "info@appmoji.com",
+    "developerWebsite": "http://www.appmoji.com",
+    "updated": "February 26, 2017",
+    "version": "1.0",
+    "genre": "Entertainment",
+    "genreId": "ENTERTAINMENT",
+    "description": "Official GiraffeMoji Stickers brought to you by Moji and Animal Adventure Park.April and Oliver the giraffe are welcoming their first addition to their family at Animal Adventure park in New York. They have waited 15 long months to meet the little one and are now ready to share their beautiful baby giraffe with the world. Celebrate all things giraffe with over 25 stunning Giraffe Emojis of your favorite Giraffe Family.#GiraffeWatch2017",
+    "descriptionHTML": "Official GiraffeMoji Stickers brought to you by Moji and Animal Adventure Park.<br><br>April and Oliver the giraffe are welcoming their first addition to their family at Animal Adventure park in New York. <br><br>They have waited 15 long months to meet the little one and are now ready to share their beautiful baby giraffe with the world. <br><br>Celebrate all things giraffe with over 25 stunning Giraffe Emojis of your favorite Giraffe Family.<br><br>#GiraffeWatch2017",
+    "histogram": {
+        "1": 12,
+        "2": 11,
+        "3": 20,
+        "4": 29,
+        "5": 372
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0.3 and up",
+    "androidVersion": "4.0.3",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/pIRh9r6y4Xwu0sGdJlKEeyfTmleuKPpSHRKAKAjV3iBbsf3Cey6ovsNF_Tkt3ITcnkoP=h310",
+        "//lh3.googleusercontent.com/nedwzLgiP577SsLSWdgSnmVJSaDWU_wMtIA56nig0U7I2wRj38Xvpe5HUhXAjSz5lf0=h310",
+        "//lh3.googleusercontent.com/rMHTLYCPqZdpfOb4zTiCOUOxb57JRc7goVviAd9nfrXWDTkx-LQmDQAJ8lDwnlYXKkY=h310"
+    ],
+    "comments": [
+        "I LOVE these. I have a tiny complaint that on Android they can't be used in my default texting app (the one that comes with my phone). So far I've only found them usable in Kik and they send as an actual image not an emoji. :( And the rendering on some of them is a little choppy. But they're so adorable! Hopefully they can fine tune these things and I'd be more than happy to give 6 stars!",
+        "Too cute, but on Android has to be used like stickers before you type msg, even if you add the keyboard. Trying to use keyboard in messaging or Twitter results in error msg \"application does not support image streaming\". However, can open emoji app, add sticker & then type. A developer update fixing this would be great. Thanks",
+        "Does not work in any Android messaging or email applications.  I was really looking forward to sending these cute giraffes. I am able to locate the keyboard,  but every time I select an emoji, it says application does not support image streaming. Happy to contribute to April, but it would be nice if this had worked. I gave 2 stars instead of 1 only because of April.",
+        "Thid app does not do anything on a Samsung S7 Edge, except continually prompting you.to \"open\" the app. NOTHING on the menu works. SOme have said that you need to add the keyboard. This doesnt work. The only way I can use the emoji is to screenshot the pictures. The email contact to the creator also got returned.",
+        "The giraffes are so adorable but it's not compatible with messaging or texting on my LG 6. Also went to google something and it came out backwards. I'll have to delete it. Hope the money goes to the giraffes and not the programmer. They did a horrible job",
+        "I'm happy to make the 1.99 donation to April and the baby but I'm most likely going to be deleting this app. It doesn't work at all. I have a Samsung s4. Even after adjusting the image size, they still aren't recognized as emojis. I'm pretty bummed."
+    ],
+    "recentChanges": [],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.appmoji.giraffemoji&hl=en&gl=us",
+    "appId": "com.appmoji.giraffemoji"
+}

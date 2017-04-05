@@ -1,0 +1,58 @@
+{
+    "title": "DARKNESS ROLLER COASTER VR",
+    "summary": "Enjoy to be scared in this Amazing attraction on VR Cardboard headset  !",
+    "icon": "//lh3.googleusercontent.com/c5bSW5UKXowQwS-FBGNL74L-ierk6KtBorvkAkMaujwYXH2-iyN_rBoA_y7PIisw7EM=w300",
+    "price": "$0.99",
+    "free": false,
+    "minInstalls": 10000,
+    "maxInstalls": 50000,
+    "score": 4.5,
+    "reviews": 1282,
+    "developer": "Creanet 3D",
+    "developerEmail": "social.creanet3d@gmail.com",
+    "developerWebsite": "http://www.darkness-rollercoaster.com",
+    "updated": "March 30, 2017",
+    "version": "4.2.2",
+    "genre": "Entertainment",
+    "genreId": "ENTERTAINMENT",
+    "description": "Special offer ! 50% off !Not a simply Rollercoaster, an Amazing attraction ! Live a fantastic moment in this Darkness Roller Coaster ! Win another VR  app by searching all hidden animation !Choose your way and go through cave in adventure world or dive into magical path worthy dark fairy tales...More than 7 minutes of sensations !With DARKNESS ROLLERCOASTER, enjoy to be scared !NO CONTROLLER NEEDED !Compatible with all VR Headset : - Cardboard- Virtual Vizor- Homido- FreeFly- VRBox....TIPS : For have the better result, please follow this some rule1/ Be sure you have enought Space for Download the App (200 Mo)+2/ Be sure you don't run too many app at the same time for have 500 RAM available.3/ If you have a double vision issue please scan a QR Code here : http://www.hypergridbusiness.com/faq/vr-headset-qr-codes/4/ For samsung Gear VR please donwload this app before : https://play.google.com/store/apps/details?id=com.kunkunsoft.cardboardappforgearvrNo Work on MOTO G but it's excellent on MOTO X !",
+    "descriptionHTML": "Special offer ! 50% off !<br><br>Not a simply Rollercoaster, an Amazing attraction ! <br><br>Live a fantastic moment in this Darkness Roller Coaster ! <br><br>Win another VR  app by searching all hidden animation !<br><br>Choose your way and go through cave in adventure world or dive into magical path worthy dark fairy tales...<br><br>More than 7 minutes of sensations !<br><br><br>With DARKNESS ROLLERCOASTER, enjoy to be scared !<br><br>NO CONTROLLER NEEDED !<br><br>Compatible with all VR Headset : <br>- Cardboard<br>- Virtual Vizor<br>- Homido<br>- FreeFly<br>- VRBox<br>....<br><br>TIPS : For have the better result, please follow this some rule<br>1/ Be sure you have enought Space for Download the App (200 Mo)+<br>2/ Be sure you don&apos;t run too many app at the same time for have 500 RAM available.<br>3/ If you have a double vision issue please scan a QR Code here : http://www.hypergridbusiness.com/faq/vr-headset-qr-codes/<br>4/ For samsung Gear VR please donwload this app before : https://play.google.com/store/apps/details?id=com.kunkunsoft.cardboardappforgearvr<br><br>No Work on MOTO G but it&apos;s excellent on MOTO X !",
+    "histogram": {
+        "1": 60,
+        "2": 26,
+        "3": 59,
+        "4": 154,
+        "5": 983
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.4 and up",
+    "androidVersion": "4.4",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.googleusercontent.com/MlYsTUW2SYXWq1QSGTdzvRzlTnJdUJhGjsu1bJWRVIphdGv6DcAeqDSPFB_oxjkmjAo=h310",
+        "//lh3.googleusercontent.com/9-ELYgQDXgjtbZq3siYER2dVPy5ZQ6rz_RvZRtBZZ0szefkv3XBYLYzanna3ovQ7NA=h310",
+        "//lh3.googleusercontent.com/SFrtqomX_hdlYBI0sXuS1pGEwdX27cU1KRXO9EZRQkHIwriWwaz5_gEVHt7yxoIQY9k=h310",
+        "//lh3.googleusercontent.com/YxLCG8xFC5dpfwduVp70R1o8kvmhCFM204BAdOa6IL88VGt0Cw5FK-a8wtYn7fkyNQ=h310",
+        "//lh3.googleusercontent.com/cEHnLwseqQD0RKWiUwmCDFSKsecTIuJ6AI01qRBMNgDaUoCGKY39wxhhwKXOaH4R7igI=h310",
+        "//lh3.googleusercontent.com/lDhicAujgnPHXvqjryBDrgm1nlpWKly0UrSyhIhz-o7gCtagdVvwVz_lTZeIjzJYgg=h310",
+        "//lh3.googleusercontent.com/3aJexj0uHFFTmTzC3JaiCFxORv2E9XC4KBQn1lWuEU-2lW3B--FjzADkxJRm-pnOpP0=h310",
+        "//lh3.googleusercontent.com/2LRbEkmnfYyuKivAWIRQib0LMjY9es4zyNIQnkTau9S4Q4Cq1OT-T49ThJotoL0r0A=h310"
+    ],
+    "video": "https://www.youtube.com/embed/5mJgbJx0oFk",
+    "comments": [
+        "Bloody brilliant, fluent and very detailed graphics, the audio is superb if using high end system or bud earphones, yes very worth downloading!!!",
+        "View is severely blurred. Can't fix it.",
+        "Real nice.",
+        "just perfect, we can see there is a lot of work on this app; it's smooth try with a LG G4) and  really nice looking, worth buying it",
+        "I think this game is totally awesome.  The best yet, that I've seen other than the VR games on the gear!! Ha job,  totally worth the download.",
+        "Nice apps totally worth buy it. Don't forget to turn at your back when your ride the roller coaster.  Hahaha"
+    ],
+    "recentChanges": [
+        "Performance improvement",
+        "Slow the time by pressing button"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.creanet3d.drc&hl=en&gl=us",
+    "appId": "com.creanet3d.drc"
+}

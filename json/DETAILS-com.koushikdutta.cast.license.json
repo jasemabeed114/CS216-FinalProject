@@ -1,0 +1,60 @@
+{
+    "title": "AllCast Premium",
+    "summary": "AllCast - Stream local video to your Roku, Xbox, Apple TV, WDTV, or Samsung TV",
+    "icon": "//lh3.googleusercontent.com/9mqCWUW5QMornTVh2192THhXdxEhrixwvKKKjjac1ssH5_ZmNgFcxGkJrbCtE6nwDH4=w300",
+    "price": "$4.99",
+    "free": false,
+    "minInstalls": 500000,
+    "maxInstalls": 1000000,
+    "score": 4,
+    "reviews": 20885,
+    "developer": "ClockworkMod",
+    "developerEmail": "allcast@clockworkmod.com",
+    "developerWebsite": "http://www.allcast.io/",
+    "updated": "March 4, 2014",
+    "version": "1.0.0.7",
+    "genre": "Entertainment",
+    "genreId": "ENTERTAINMENT",
+    "description": "This app is just the License key for AllCast. You must also download the free version of the app from here:https://play.google.com/store/apps/details?id=com.koushikdutta.cast&hl=enIF YOU ARE HAVING LICENSE ISSUES, MAKE SURE YOU HAVE THE LATEST VERSION OF FREE AND THE LATEST LICENSE INSTALLED!AllCast Premium Features:No advertisementsNo splash screensNo limits on video lengths",
+    "descriptionHTML": "This app is just the License key for AllCast. You must also download the free version of the app from here:<br>https://play.google.com/store/apps/details?id=com.koushikdutta.cast&amp;hl=en<br><br>IF YOU ARE HAVING LICENSE ISSUES, MAKE SURE YOU HAVE THE LATEST VERSION OF FREE AND THE LATEST LICENSE INSTALLED!<br><br>AllCast Premium Features:<br><br>No advertisements<br>No splash screens<br>No limits on video lengths",
+    "histogram": {
+        "1": 2366,
+        "2": 1002,
+        "3": 1640,
+        "4": 4231,
+        "5": 11646
+    },
+    "offersIAP": false,
+    "adSupported": false,
+    "androidVersionText": "4.0 and up",
+    "androidVersion": "4.0",
+    "contentRating": "Everyone",
+    "screenshots": [
+        "//lh3.ggpht.com/N7xYnTBAJc-3MggSqopGZ2qH6QqhmTKcUmztZazzygNUQBA4U8Ma4M8qBeyslp1yxXA=h310",
+        "//lh3.ggpht.com/S5JlRjGgCyAy1zvTCeLPS8aJcPeEMhoaglhQN960ptICIwROkueikOBKTjTtolw1ZjA=h310",
+        "//lh6.ggpht.com/t_sPoNZUyZBTFruI0osAYmz0oHfEqldVaRuZuzruTBJfl5FemTySn-WPPQE5lnEbrw=h310",
+        "//lh4.ggpht.com/QbNxb7z3uLRbO_mR5qvwCj6WNwpH0MnMAANWh2MM80Ia4Qow5EsEOsrBo8THIInpJQ=h310",
+        "//lh6.ggpht.com/b0bYyJFWnkgZNGup8GR-mqd9aYWOeB5P9A9oQ_KSmHRPTxKc2Z1xetuo3WeRaa4GpKE=h310",
+        "//lh3.ggpht.com/oU9Yz0ETea94wW4sqaeBmhLBoA-SHaM-Uk9KDl8k7Zpfhit63Wg6TQuaxre8oSA-uIv1=h310",
+        "//lh5.ggpht.com/v_g-8nT4RtzKQMpQ_oiwFWFiDqZ4tph2NHPufcKdLwe684seejbTQNyAedeA9BHhyqw=h310",
+        "//lh5.ggpht.com/gPHekKLkj5c_SJrC2F0YAX-lOvOMsnyI9_8q19GYWAkeP-VDvcApaoNswIKEUiabB0k=h310",
+        "//lh6.ggpht.com/bVYNEXXIdgDmRrPfjyB5W7y-sX3wegNfEi1HWHsR0qkHR3KsBSgjWryH57ZtFALN1g4=h310",
+        "//lh4.ggpht.com/z3PlJihJHl2mKtU66YVHsqSGMjoo4g4M4F-qF9qJ0MNhT0mWLloNgrgVOa6oJkOQ6b6U=h310",
+        "//lh6.ggpht.com/PuXt9HV1H1HHh6BDUvfVXWOQJbG-zesh80Kb4WTgc86ikjw06fE6PLF4eFXxrZsR8KSb=h310"
+    ],
+    "video": "https://www.youtube.com/embed/5k_NLVrbxss",
+    "comments": [
+        "So Easy! Brilliant and worth the extra 3 quid. Makes streaming faster, easier and more enjoyable. One note i will add is i wish xbox one version had the ability to stream an equalizer/visualisations whilst playing music. Just a blank screen or artwork is boring. Maybe an add-on that i wouldn't mind paying for would be the way forward. Tip top app well done allcast",
+        "5 stars This app allows you to take movies you have stored on your device or on your network (upnp or dlna media server) and stream them to chromecast so you can watch them on your tv. While doing so you can stop, rewind and fast forward the movie from your tablet/phone. Most important, Playback is extremely fluid. Works very well and I could not be happier",
+        "Casting from Google Play Music? Casting from google play music was  working fine,  but after i purchased premium i lost audio to the chrome app receiver. I restarted both devices and now the chrome receiver does not show up at all when trying to cast from play music.   The allcast app still sees it,  but and can cast to it  but play music does not.  My htc one is rooted. I also tried re-enabling the play music music feature in settings and re-granting the su rights,  but it didnt change anything.",
+        "Won't cast photographs from Dropbox It's two weeks since I went premium and alerted support that I cannot cast photographs from the Dropbox module.  Cloudcaster works perfectly on my Galaxy SII and Nexus 7 so it is not a device issue.   Allegedly the issue has been pushed up to the developer a week ago but no joy.    Edited to add that this issue has now been resolved and I am happy to give it four stars",
+        "It works sometimes. This would be a perfect app if it worked properly. I use this with chromecast and when I attempt to stream videos that I recorded it plays about 5 seconds then stops and it repeats until it eventually force shuts down. But then when I play movies that are downloaded onto my phone they play perfect, sometimes. Other times with movies they start off fine then it force crashes, but once I attempt to play it again it plays just fine. It's OK, if you have the patience.",
+        "Best interface/stability Of all the casting apps I've tried, this one has the best interface and is the most stable. I just wish I could set it to automatically connect to my Chromecast like I can with Bubble. It's a bit of a silly step to select it every time since it's the only device I have. The play/pause button frequently doesn't play or pause video."
+    ],
+    "recentChanges": [
+        "New icon"
+    ],
+    "preregister": false,
+    "url": "https://play.google.com/store/apps/details?id=com.koushikdutta.cast.license&hl=en&gl=us",
+    "appId": "com.koushikdutta.cast.license"
+}
